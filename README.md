@@ -19,7 +19,7 @@
 </ol>
 
 <h1 align="center">Описание модуля:</h1>
-<img width="600" height="651" alt="image" src="https://github.com/user-attachments/assets/6511053a-963e-4c61-8f25-3e5ed0c7ce63" />
+<img width="600" height="629" alt="image" src="https://github.com/user-attachments/assets/e677e69f-bde1-493d-9068-41919caf60a8" />
 
 <h2 align="center">Модуль обеспечивает:</h2>
 <hr>
